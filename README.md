@@ -2,7 +2,8 @@
 设计模式学习
 
 # 设计模式大分类
-[链接](https://www.runoob.com/design-pattern/design-pattern-intro.html)
+[菜鸟链接](https://www.runoob.com/design-pattern/design-pattern-intro.html)
+[学习链接](https://blog.csdn.net/lovelion/article/details/17517213)
 ## 创建型模式
 * 工厂模式（Factory Pattern）
 * 抽象工厂模式（Abstract Factory Pattern）
