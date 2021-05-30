@@ -11,8 +11,7 @@ public class DbLoggerFactory implements Factory {
     public Logger create() {
         //连接数据库等操作
         //创建数据库日志记录器对象
-        Logger logger = new DbLogger();
         //初始化数据库日志记录器，代码省略
-        return logger;
+        return new DbLogger();
     }
 }

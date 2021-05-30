@@ -11,6 +11,7 @@ public class DbLogger implements Logger {
         System.out.println("数据库日志记录器构造函数，进行了一些初始化操作");
     }
 
+    @Override
     public void writeLog() {
         System.out.println("这是数据库日志记录器输出内容");
     }

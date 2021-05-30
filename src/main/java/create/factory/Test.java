@@ -10,7 +10,7 @@ public class Test {
         Factory factory;
 
 
-        factory = new FileLoggerFactory();
+        factory = FileLoggerFactory.getInstance();
         logger = factory.create();
         // 若想要工厂也可以根据配置灵活变动
         // 可使用以下代码创建工厂
